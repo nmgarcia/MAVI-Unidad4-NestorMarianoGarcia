@@ -1,0 +1,14 @@
+﻿  Game.cpp
+C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Clickale\Clickale\Game.cpp(54,61): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Clickale\Clickale\Game.cpp(54,45): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Clickale\Clickale\Game.cpp(124,31): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Clickale\Clickale\Game.cpp(128,28): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+  Clickale.vcxproj -> C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Clickale\x64\Debug\Clickale.exe

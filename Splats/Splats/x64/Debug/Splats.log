@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Splats\Splats\Main.cpp(40,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Splats\Splats\Main.cpp(40,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Splats.vcxproj -> C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Splats\x64\Debug\Splats.exe

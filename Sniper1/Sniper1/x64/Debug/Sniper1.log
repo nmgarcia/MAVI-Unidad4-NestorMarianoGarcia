@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Sniper1\Sniper1\main.cpp(68,82): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Sniper1\Sniper1\main.cpp(68,63): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Sniper1\Sniper1\main.cpp(73,86): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Sniper1\Sniper1\main.cpp(73,67): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Sniper1.vcxproj -> C:\Users\NeGarcia\OneDrive - ENDAVA\Desktop\UNL\Modelos de algoritmos para Videojuegos 1\Unidad 4\MAVI-Unidad4--NestorMarianoGarcia\Sniper1\x64\Debug\Sniper1.exe
